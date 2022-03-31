@@ -1,0 +1,26 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "acq-1mm-sag_T1w_6m12s_ADNI",
+	"SeriesNumber": 7,
+	"AcquisitionNumber": 7,
+	"ImageComments": "------",
+	"PhilipsRescaleSlope": 2.2254,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00655228,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.00294,
+	"RepetitionTime": 0.006442,
+	"InversionTime": 0.9,
+	"ReconMatrixPE": 256,
+	"ImageOrientationPatientDICOM": [
+		0.0284263,
+		0.998711,
+		-0.0420474,
+		0.0362949,
+		-0.0430679,
+		-0.998413	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.9.2"
+}
