@@ -1,0 +1,25 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "3DT2_1mm",
+	"SeriesNumber": 6,
+	"AcquisitionNumber": 6,
+	"ImageComments": "------",
+	"PhilipsRescaleSlope": 1.56825,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00242112,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.331,
+	"RepetitionTime": 2.5,
+	"ReconMatrixPE": 256,
+	"ImageOrientationPatientDICOM": [
+		0.0284263,
+		0.998711,
+		-0.0420474,
+		0.0362949,
+		-0.0430679,
+		-0.998413	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.9.2"
+}
