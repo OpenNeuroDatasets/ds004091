@@ -1,0 +1,25 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "ImageMRSERIES",
+	"ProtocolName": "task-ASGL_run-1_bold",
+	"SeriesNumber": 15,
+	"AcquisitionNumber": 15,
+	"ImageComments": "sub-05_ses-01_prfGazeMod",
+	"PhilipsRescaleSlope": 3.8862,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 5.50365e-05,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.01689,
+	"RepetitionTime": 1.31702,
+	"ReconMatrixPE": 112,
+	"ImageOrientationPatientDICOM": [
+		0,
+		0.9088,
+		-0.417233,
+		-0,
+		-0.417233,
+		-0.9088	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20180622 GCC4.9.2"
+}
